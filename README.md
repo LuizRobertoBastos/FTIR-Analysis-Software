@@ -53,7 +53,7 @@ Developed at the Composite Materials and Adhesives Laboratory (LaCom) at the Fed
 
 ## 🚀 Installation and Usage
 
-**Not a programmer?** You don't need to touch the code. Download the ready-to-use Windows executable (`.exe`) from the [Releases page](https://github.com/seu-usuario/nome-do-repo/releases).
+**Not a programmer?** You don't need to touch the code. Download the ready-to-use Windows executable (`.exe`) from the [Releases page](https://github.com/LuizRobertoBastos/FTIR-Analysis-Software/releases).
 
 **For developers and researchers:**
 
