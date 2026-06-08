@@ -58,17 +58,16 @@ Developed at the Composite Materials and Adhesives Laboratory (LaCom) at the Fed
 **For developers and researchers:**
 
 1. **Clone the repository:**
-   git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/seu-usuario/nome-do-repo.git)
-   cd nome-do-repo
-2. Install the required dependencies:
-
-Bash
-pip install -r requirements.txt
-Launch the software:
-
-Bash
-python main_launcher.py
-
+   bash
+   git clone [https://github.com/LuizRobertoBastos/FTIR-Analysis-Software.git](https://github.com/LuizRobertoBastos/FTIR-Analysis-Software.git)
+   cd FTIR-Analysis-Software
+2. **Install the required dependencies:**
+   bash
+   pip install -r requirements.txt
+3. **Launch the software:**
+   bash
+   python app.py
+   
 ## 📚 Background & Impact
 This project was developed as part of an Undergraduate Research program focused on material integrity and degradation analysis. It bridges the gap between Materials Engineering and computational toolsets.
 
@@ -80,5 +79,5 @@ Successfully processed over 500 samples during the research period.
 
 Standardized the reporting and baseline correction format for the entire laboratory.
 
-👨‍💻 Author
+## 👨‍💻 Author
 Luiz Roberto Bastos de Oliveira Materials Engineering Student @ UFRJ | Undergraduate Researcher
